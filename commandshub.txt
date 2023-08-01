@@ -5,3 +5,4 @@ git clone <from github url>i
 git pull orgin main
 git fetch
 git push
+git checkout
