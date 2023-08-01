@@ -1,4 +1,7 @@
 git init
 git status
 git remote -v
-git clone <from github url>
+git clone <from github url>i
+git pull orgin main
+git fetch
+git push
