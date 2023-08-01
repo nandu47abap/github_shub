@@ -10,4 +10,7 @@ git log --oneline
 git log --oneline --pretty
 git config --global user.name ""
 git config --global user.email ""i
-git checkout -b <branch name>
+git checkout -b <branch name> #To create branch
+git checkout <branch name> #To switch branch
+git branch
+
